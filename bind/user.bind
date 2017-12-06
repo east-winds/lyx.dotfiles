@@ -3,6 +3,8 @@
 
 Format 4
 
+# include one of the basic flavours (cua or emacs)
+\bind_file	"mac"
 
 \bind "A-M-n" "note-insert"
 \bind "A-M-a" "citation-insert"
