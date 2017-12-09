@@ -14,4 +14,4 @@ Format 4
 \bind "A-M-c" "dialog-show-new-inset ref"
 \bind "A-M-l" "label-insert"
 \bind "A-M-g"     "command-sequence float-insert figure; char-left;dialog-show-new-inset graphics"
-
+\bind "A-M-r" "command-sequence ert-insert; self-insert \interview{}; char-left;"
