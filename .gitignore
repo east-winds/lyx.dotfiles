@@ -6,3 +6,5 @@ templates/*
 *.defaults
 
 preferences
+
+.DS_Store
